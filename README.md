@@ -10,9 +10,26 @@ Reto de la materia TC3002b
 Este proyecto implementa un sistema de detección de plagio en código fuente basado en TF-IDF (Term Frequency-Inverse Document Frequency), combinado con técnicas de procesamiento de lenguajes formales para analizar similitudes estructurales y semánticas en programas Java. El sistema está diseñado para entornos educativos y competencias de programación, donde es crítico identificar tanto copias literales como modificaciones astutas (ej.: renombrado de variables, reordenamiento de bloques).
 
 ## Características
-- Tokenización de código fuente Java.
+- Tokenización de código fuente Java. Se plantea ANTLR4
 - Cálculo de TF-IDF para identificar términos significativos.
 - Detección de plagio basada en similitudes de tokens y estructuras de código.
+
+## Organizacion del proyecto
+```
+- datasets
+    - ConPlag
+        - ...
+    - IR-Plag-Dataset
+        - ...
+- papers
+    - ...
+- src
+    - project.ipynb
+    ...
+...
+```
+
+<b>Es importante denotar que unicamente project.ipynb es ejecutable. Los demás códigos son solo dependencias de ANTLR4</b>
 
 
 # Referencias
@@ -21,3 +38,5 @@ Este proyecto implementa un sistema de detección de plagio en código fuente ba
 [2] Evgeniy Slobodkin y Alexander Sadovnikov, «ConPlag: a Dataset of Programming Contest Plagiarism in Java». Zenodo, nov. 10, 2022. doi: 10.5281/zenodo.7332790.
 
 [3] D. Fu, Y. Xu, H. Yu, and B. Yang, "WASTK: A Weighted Abstract Syntax Tree Kernel Method for Source Code Plagiarism Detection," Scientific Programming, vol. 2017, Art. no. 7809047, 2017. [Online]. Available: https://doi.org/10.1155/2017/7809047
+
+[4] https://www.antlr.org/index.html
