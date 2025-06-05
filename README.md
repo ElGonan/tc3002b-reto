@@ -33,10 +33,12 @@ Este proyecto implementa un sistema de detección de plagio en código fuente ba
 
 
 # Referencias
-[1] Karnalim, O. (2020). TF-IDF-inspired detection for cross-language source code plagiarism and collusion. Computer Science, vol. 21, no. 1, pp. 113–136. doi: 10.7494/csci.2020.21.1.3389.
 
-[2] Evgeniy Slobodkin y Alexander Sadovnikov, «ConPlag: a Dataset of Programming Contest Plagiarism in Java». Zenodo, nov. 10, 2022. doi: 10.5281/zenodo.7332790.
+- https://www.antlr.org/index.html
 
-[3] D. Fu, Y. Xu, H. Yu, and B. Yang, "WASTK: A Weighted Abstract Syntax Tree Kernel Method for Source Code Plagiarism Detection," Scientific Programming, vol. 2017, Art. no. 7809047, 2017. [Online]. Available: https://doi.org/10.1155/2017/7809047
-
-[4] https://www.antlr.org/index.html
+- O. Karnalim, "TF-IDF-inspired detection for cross-language source code plagiarism and collusion," Computer Science, vol. 21, no. 1, pp. 113–136, 2020. doi: 10.7494/csci.2020.21.1.3389
+- E. Slobodkin y A. Sadovnikov, "ConPlag: a Dataset of Programming Contest Plagiarism in Java," Zenodo, Nov. 10, 2022. doi: 10.5281/zenodo.7332790
+- D. Fu, Y. Xu, H. Yu, y B. Yang, "WASTK: A Weighted Abstract Syntax Tree Kernel Method for Source Code Plagiarism Detection," Scientific Programming, vol. 2017, Art. no. 7809047, 2017. doi: 10.1155/2017/7809047
+- Oscar Karnalim, Sulistiani, H. Toba, y M. Joy, "Source Code Plagiarism Detection in Academia with Information Retrieval: Dataset and the Observation," International Journal of Engineering Education, vol. 35, no. 4, pp. 1062–1073, 2019
+- Z. C. Lipton, C. Elkan y B. Narayanaswamy, "Optimal Thresholding of Classifiers to Maximize F1 Measure," en Machine Learning and Knowledge Discovery in Databases, T. Calders, F. Esposito, E. Hüllermeier y R. Meo, Eds., ECML PKDD 2014, Lecture Notes in Computer Science, vol. 8725, Springer, Berlín, Heidelberg, 2014, pp. 225–239
+- R. S. Mehsen and H. D. Joshi, "Detection of Source Code Plagiarism Utilizing an Approach Based on Machine Learning," International Journal of Computing, vol. 23, no. 1, pp. 78–84, 2024, doi: 10.41859/jc.211.34.98.
