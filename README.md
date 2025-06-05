@@ -31,6 +31,11 @@ Este proyecto implementa un sistema de detección de plagio en código fuente ba
 
 <b>Es importante denotar que unicamente project.ipynb es ejecutable. Los demás códigos son solo dependencias de ANTLR4</b>
 
+# Mejora para semana 18
+## Alan Patricio González Bernal - A01067546
+
+Como parte de mejora para el proyecto, aplicaré un aumento de datos, ya que el dataset actual está limitado y se tuvo que normalizar. Por lo que se propone un aumento de datos sustancial mendiante la combinación y mezcla de otros datasets para tener una base sólida. La cual presentará unos resultados más concisos y confiables por los diferentes estilos y objetivos de los mismos.
+
 
 # Referencias
 
