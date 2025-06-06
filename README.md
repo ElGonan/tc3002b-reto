@@ -36,6 +36,7 @@ Este proyecto implementa un sistema de detección de plagio en código fuente ba
 
 Como parte de mejora para el proyecto, aplicaré un aumento de datos, ya que el dataset actual está limitado y se tuvo que normalizar. Por lo que se propone un aumento de datos sustancial mendiante la combinación y mezcla de otros datasets para tener una base sólida. La cual presentará unos resultados más concisos y confiables por los diferentes estilos y objetivos de los mismos.
 
+Además del aumento de dataset, se implementa detección multiclase de plagio. Ya que se sabe que el plagio es una acusación grave y debe haber verdadera certeza de que existe. Por lo que se implementan multiclases para poder detectar diferentes tipos de plagio lo que asegura que se pueda, a nivel de instructor, tener una mejor idea de qué tipo de plagio se está cometiendo y así poder tomar las acciones correspondientes.
 
 # Referencias
 
@@ -47,3 +48,4 @@ Como parte de mejora para el proyecto, aplicaré un aumento de datos, ya que el 
 - Oscar Karnalim, Sulistiani, H. Toba, y M. Joy, "Source Code Plagiarism Detection in Academia with Information Retrieval: Dataset and the Observation," International Journal of Engineering Education, vol. 35, no. 4, pp. 1062–1073, 2019
 - Z. C. Lipton, C. Elkan y B. Narayanaswamy, "Optimal Thresholding of Classifiers to Maximize F1 Measure," en Machine Learning and Knowledge Discovery in Databases, T. Calders, F. Esposito, E. Hüllermeier y R. Meo, Eds., ECML PKDD 2014, Lecture Notes in Computer Science, vol. 8725, Springer, Berlín, Heidelberg, 2014, pp. 225–239
 - R. S. Mehsen and H. D. Joshi, "Detection of Source Code Plagiarism Utilizing an Approach Based on Machine Learning," International Journal of Computing, vol. 23, no. 1, pp. 78–84, 2024, doi: 10.41859/jc.211.34.98.
+- Plagiarism Level & Penalties UGC Guideline for Promotion of Academic Integrity and Prevention of Plagiarism," Library Academy, [En línea]. Disponible en: https://libraryacademy.in/plagiarism-level-penalties-ugc-guideline/. [Accedido: 5-jun-2025].
